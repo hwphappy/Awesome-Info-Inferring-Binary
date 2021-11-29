@@ -6,7 +6,9 @@
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
 | [DIRECT : A Transformer-based Model for Decompiled Variable Name Recovery](https://aclanthology.org/2021.nlp4prog-1.6.pdf) | nlp4prog | 2021 | S | V | [DIRECT-nlp4prog](https://github.com/DIRECT-team/DIRECT-nlp4prog) | [D](https://drive.google.com/drive/folders/19Rf7NtW56r6fz-ycldZq9hjxNr5osAJW?usp=sharing)|
 | [XFL: eXtreme Function Labeling](https://arxiv.org/pdf/2107.13404.pdf) | Arxiv | 2021 | S |  V | XFL | D |
-| [Variable Name Recovery in Decompiled Binary Code using Constrained Masked Language Modeling](https://arxiv.org/pdf/2103.12801.pdf) | Arxiv | 2021 | S |  V | G | D |
+| [Variable Name Recovery in Decompiled Binary Code using Constrained Masked Language Modeling](https://arxiv.org/pdf/2103.12801.pdf) | Arxiv | 2021 | S |  V | [VarBERT
+![image](https://user-images.githubusercontent.com/49850437/143828749-8296ec08-8bff-42d1-81a2-51e3527a56ef.png)
+] | D |
 | [DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types](https://www.usenix.org/system/files/sec22summer_chen-qibin.pdf) | Usenix Sec | 2022 | S |  V | [DIRTY](https://github.com/CMUSTRUDEL/DIRTY) \| [Demo](https://dirtdirty.github.io/explorer.html) | D |
 | [A Lightweight Framework for Function Name Reassignment Based on Large-Scale Stripped Binaries](https://dl.acm.org/doi/10.1145/3460319.3464804) | ISSTA | 2021 | S | V | [NFRE](https://github.com/USTC-TTCN/NFRE)| D |
 | [StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling](https://www.cs.columbia.edu/~suman/docs/stateformer.pdf) | ESEC/FSE | 2021 | S | V | [StateFormer](https://github.com/CUMLSec/stateformer) | D |
